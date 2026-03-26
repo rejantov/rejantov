@@ -17,7 +17,7 @@ I'm a versatile developer with hands-on experience in full-stack development, cu
 
 ## 🌟 Featured Projects
 
---**[Pokemon Go: Codemon Rebellion](https://github.com/rejantov/pokemon-go-codemon-rebellion)** - A location-based monster-battling game featuring both PvP and PvE combat.
+- **[Pokemon Go: Codemon Rebellion](https://github.com/rejantov/pokemon-go-codemon-rebellion)** - A location-based monster-battling game featuring both PvP and PvE combat.
 - **[Lucky Clover](https://github.com/rejantov/lucky-clover)** - Built completely solo in 7th grade. A passion project that sparked my journey into development.
 - **[Metal-tronix](https://github.com/rejantov/metal-tronix)** - The official website for my father's business. Showcasing professional web design and functionality.
 - More projects coming soon...
