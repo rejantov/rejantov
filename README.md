@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rejantov Erlani
+# Hi there! 👋 I'm Rejan Toverlani
 
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** exploring **Cybersecurity**, currently a Computer Engineering & Electrical Engineering student. I love building elegant solutions and continuously expanding my skillset across multiple domains.
 
