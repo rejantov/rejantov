@@ -27,9 +27,9 @@ I'm currently working at **MyEduIn**, where I contribute to full-stack developme
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rejantov&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rejantov&show_icons=true&theme=dark&cache_seconds=0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rejantov&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rejantov&layout=compact&theme=dark&cache_seconds=0)
 
 ## 🤝 Connect With Me
 
