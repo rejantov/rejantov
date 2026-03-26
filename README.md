@@ -30,9 +30,9 @@ My work github: [rejantoverlani](https://github.com/rejantoverlani).
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rejantov&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rejantov&show_icons=true&theme=radical&cache_seconds=86400&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejantov&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejantov&layout=compact&theme=radical&cache_seconds=86400&hide_border=true)
 
 ## 🤝 Connect With Me
 
