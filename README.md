@@ -34,6 +34,8 @@ My work github: [rejantoverlani](https://github.com/rejantoverlani).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rejantov&layout=compact&theme=radical&cache_seconds=86400&hide_border=true)]
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rejantov&" alt="rejantov" />
+
 ## 🤝 Connect With Me
 
 I'm always open to interesting conversations, collaborations, and opportunities!
